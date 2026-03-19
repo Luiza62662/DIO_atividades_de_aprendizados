@@ -1,0 +1,9 @@
+src/
+  app.ts
+  server.ts
+  routes/
+  controllers/
+  services/
+  models/
+  errors/
+tests/
