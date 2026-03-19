@@ -21,3 +21,16 @@ permite escalar
 ⚠️ Armadilha comum
 
 Colocar regra de negócio no controller → vira “God file”
+
+
+🚀 FINAL
+
+Projeto criado. Funcional. Estruturado.
+
+Próximo movimento inteligente:
+
+Banco de dados
+
+Auth com JWT
+
+Validação com Zod
