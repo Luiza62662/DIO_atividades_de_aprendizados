@@ -1,0 +1,15 @@
+{
+  "name": "qrcode-generator-dio",
+  "version": "1.0.0",
+  "description": "Gerador de QR Code via terminal para e-commerce",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Seu Nome",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "qrcode": "^1.5.4"
+  }
+}
